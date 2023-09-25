@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    background-color: rgb(245, 245, 245);
+    padding: 20px;
+}
